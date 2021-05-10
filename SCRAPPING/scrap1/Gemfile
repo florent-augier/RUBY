@@ -1,0 +1,5 @@
+gem 'dotenv'
+
+gem 'nokogiri' 
+
+gem 'pry'
